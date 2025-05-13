@@ -18,7 +18,7 @@ This repository contains my notes and hands-on experiments on using Low-Rank Ada
 
 ## 📒 Notebook
 
-All hands-on work is in `notebooks/lora_peft_finetuning_notes.ipynb`
+All hands-on work is in `notebooks/LoRA_&_PEFT_Mastery.ipynb`
 
 ## 🧩 Future Work
 
